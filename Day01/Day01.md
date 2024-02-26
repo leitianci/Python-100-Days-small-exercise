@@ -26,7 +26,5 @@ Namespaces are one honking great idea -- let's do more of those!
 ```
 
 ## exercise02
-![QQ截图20240226150108.png](..%2F..%2F..%2F1.QQ%B1%A3%B4%E6%D5%D5%C6%AC%2F1%2FQQ%BD%D8%CD%BC20240226150108.png)
-
+![QQ截图20240226150108](https://github.com/leitianci/Python-100-Days-small-exercise/assets/102131124/c5ad0e36-73cf-4151-ad39-3facd1948ad6)
 ## peppa_pig
-![QQ截图20240226150352.png](..%2F..%2F..%2F1.QQ%B1%A3%B4%E6%D5%D5%C6%AC%2F1%2FQQ%BD%D8%CD%BC20240226150352.png)
