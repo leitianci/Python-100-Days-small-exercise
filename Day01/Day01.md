@@ -28,3 +28,6 @@ Namespaces are one honking great idea -- let's do more of those!
 ## exercise02
 ![QQ截图20240226150108](https://github.com/leitianci/Python-100-Days-small-exercise/assets/102131124/c5ad0e36-73cf-4151-ad39-3facd1948ad6)
 ## peppa_pig
+![QQ截图20240226150352](https://github.com/leitianci/Python-100-Days-small-exercise/assets/102131124/3283c182-77fe-4662-88d8-b7d0210bd446)
+
+
